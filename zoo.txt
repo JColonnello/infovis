@@ -1,0 +1,7 @@
+visual encodings
+stacked graph
+SMALL MULTIPLES
+HORIZON GRAPHS
+Q-Q plots
+dendrogram
+seriation
